@@ -12,7 +12,7 @@
     "chartist": "^0.10.1",
     "classnames": "^2.2.6",
     "dom": "0.0.3",
-    "firebase": "^7.14.2",
+    "firebase": "^7.24.0",
     "gh-pages": "^2.2.0",
     "history": "^4.9.0",
     "material-table": "^1.57.2",
